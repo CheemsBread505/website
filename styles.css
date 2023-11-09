@@ -31,3 +31,12 @@ body {
 .navbar li a:active {
     background-color: #ff9900; /* Orange on click */
 }
+
+.right-align {
+    float: right;
+    padding-right: 15px;
+}
+
+.title {
+    text-align: center;
+}
