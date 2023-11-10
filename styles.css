@@ -31,8 +31,3 @@ body {
 .navbar li a:active {
     background-color: #ff9900; /* Orange on click */
 }
-
-.title {
-    text-align: center;
-    text-decoration: underline;
-}
