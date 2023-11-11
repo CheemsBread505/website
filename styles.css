@@ -28,6 +28,14 @@ body {
     padding: 14px 16px;
 }
 
-.navbar li a:active {
-    background-color: #ff9900; /* Orange on click */
+a {
+  color: #00bcd4;
+}
+
+a:hover {
+  color: #009688;
+}
+
+a:visited {
+  color: #008395;
 }
