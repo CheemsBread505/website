@@ -12,7 +12,7 @@
     <div class="navbar">
         <ul>
             <li><a href="/">Home</a></li>
-            <li><a href="scripts.html">Scripts</a></li>
+           <!--<li><a href="scripts.html">Scripts</a></li> -->
             <!--<li><a href="about.html">About</a></li>
             <li><a href="blog.html">Blog</a></li>-->
         </ul>
@@ -22,6 +22,7 @@
 <h1 class="title">CheemsBread.xyz</h1>
 <br>
 <div class="welcomearticle">
+    <img class="puffy" src="images/puffy.png">
     <article>
         <h3>I'm not one to talk about myself, but I am one to talk about computers.</h3>
         <p>This website is hosted on an OpenBSD 7.4 VPS on Vultr using the HTTPD web server.
@@ -37,7 +38,6 @@
             I'm still a new user of OpenBSD; I've been using GNU/Linux for desktop and my servers full-time since the spring of 2023.
             Recently (at the time of writing this page), I switched my web server from Debian stable to OpenBSD. There were some issues getting a web server to work with HTTPS/SSL, but once I switched to HTTPD instead of Nginx, I had no issues with OpenBSD.
         </p> 
-        <img src="images/puffy.png">
     </article>    
 </div>
 <style>
@@ -48,6 +48,11 @@
 .welcomearticle {
     width: 700px;
     margin: 0 auto; 
+}
+
+.puffy {
+    float: right;
+    padding-right: 15px;
 }
 
 </style>
