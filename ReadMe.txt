@@ -8,6 +8,7 @@ It's still being worked on.
 If you're viewing this source code on Github, it might be out of date. 
 The main repo is: https://git.cheemsbread.xyz/CheemsBread/website
 
-====== License info ======
+====== Copyright ======
+Copyright (c) 2023 Cheems Bread
 
-This website's source code is licensed under the "GNU AFFERO GENERAL PUBLIC LICENSE" 
+This software is released under the: GNU affero general public license, version 3 (AGPL v3.0).
